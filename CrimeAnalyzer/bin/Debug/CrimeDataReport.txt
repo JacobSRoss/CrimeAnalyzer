@@ -12,3 +12,7 @@ Violent crime per capita rate (2010): 0.0040450234834638
 
 Average murder per year (all years): 16864.25
 Average murder per year (1994–1997): 20696.25
+Average murder per year (2010-2013): 14608.75
+Minimum thefts per year (1999–2004): 6937089
+Maximum thefts per year (1999–2004): 7092267
+Year of highest number of motor vehicle thefts: 1994
