@@ -1,0 +1,7 @@
+C:\Users\Jacob 2015\Desktop\IT2040\CrimeAnalyzer\CrimeAnalyzer\bin\Debug\CrimeAnalyzer.exe.config
+C:\Users\Jacob 2015\Desktop\IT2040\CrimeAnalyzer\CrimeAnalyzer\bin\Debug\CrimeAnalyzer.exe
+C:\Users\Jacob 2015\Desktop\IT2040\CrimeAnalyzer\CrimeAnalyzer\bin\Debug\CrimeAnalyzer.pdb
+C:\Users\Jacob 2015\Desktop\IT2040\CrimeAnalyzer\CrimeAnalyzer\obj\Debug\CrimeAnalyzer.csprojAssemblyReference.cache
+C:\Users\Jacob 2015\Desktop\IT2040\CrimeAnalyzer\CrimeAnalyzer\obj\Debug\CrimeAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\Jacob 2015\Desktop\IT2040\CrimeAnalyzer\CrimeAnalyzer\obj\Debug\CrimeAnalyzer.exe
+C:\Users\Jacob 2015\Desktop\IT2040\CrimeAnalyzer\CrimeAnalyzer\obj\Debug\CrimeAnalyzer.pdb
